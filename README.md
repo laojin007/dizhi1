@@ -4,12 +4,12 @@
 
 最新地址发布页：
 
-https://laojin.lol
+<a style="color: #0000ff;" href="https://laojin.lol" target="_blank">https://laojin.lol</a>
 
-https://github.com/laojin007/dizhi1
+<a style="color: #0000ff;" href="https://github.com/laojin007/dizhi1" target="_blank">https://github.com/laojin007/dizhi1</a>
 
 1、最新地址（2025.6.13）
 
-https://laojin3.xyz
+<a style="color: #0000ff;" href="https://laojin3.xyz" target="_blank">https://laojin3.xyz</a>
 
-https://laojin4.xyz
+<a style="color: #0000ff;" href="https://laojin4.xyz" target="_blank">https://laojin4.xyz</a>
